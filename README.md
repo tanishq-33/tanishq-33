@@ -1,7 +1,7 @@
 # 💫 About Me:
-💻 Currently developing a chat client using Data Structures and Algorithms (DSA).
-🌱 Learning Python and React.js.
-🚀 Exploring new technologies and continuously expanding my knowledge.
+💻 Currently developing a chat client using Data Structures and Algorithms (DSA).<br>
+🌱 Learning Python and React.js.<br>
+🚀 Exploring new technologies and continuously expanding my knowledge.<br>
 
 <br>
 
