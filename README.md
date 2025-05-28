@@ -1,6 +1,6 @@
 # 💫 About Me:
-💻 Currently developing a chat client using Data Structures and Algorithms (DSA).<br>
-🌱 Learning Python and React.js.<br>
+🌱 Learning SQL and exploring backend development.<br>
+☕ Recently learned Java and Object-Oriented Programming & Design (OOPD).<br>
 🚀 Exploring new technologies and continuously expanding my knowledge.<br>
 
 <br>
